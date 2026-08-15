@@ -1,1 +1,1 @@
-r@# ghost gg
+r@# ghost g
